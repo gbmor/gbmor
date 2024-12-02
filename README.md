@@ -2,7 +2,12 @@
 
 I enjoy writing software, and I run a public-access OpenBSD system called [tilde.institute](https://tilde.institute).
 
-My personal site is at [gbmor.dev](https://gbmor.dev). You can grab my [pgp key](https://gbmor.dev/key.pub) if you're into that sort of thing.
+My free time is usually spent:
+- working on side projects I may not ever finish
+- playing MUDs and roguelikes
+- hanging out on IRC
+- camping, hiking, climbing, and other outdoorsy things
+- teaching possums to sing and play the piano
 
-In my free time, I hang out on IRC, work on a bunch of side projects I may not ever finish, and play MUDs and roguelikes.
+My personal site is at [gbmor.org](https://gbmor.org). You can grab my [pgp key](https://gbmor.org/key.pub) if you're into that sort of thing.
 
