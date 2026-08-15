@@ -1,5 +1,7 @@
 # ~gbmor
 
+In the process of moving things to [codeberg.org/gbmor](https://codeberg.org/gbmor)
+
 I enjoy writing software, and I run a public-access OpenBSD system called [tilde.institute](https://tilde.institute).
 
 My free time is usually spent:
